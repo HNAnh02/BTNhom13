@@ -7,7 +7,7 @@
 mon_1 = 'Tra olong'
 mon_2 = 'Tra chanh'
 mon_3 = 'Cafe'
-mon_4 = 'Tra sua'
+mon_4 = 'Tra
 mon_5 = 'Tra da'
 price_1 = 20
 price_2 = 30
